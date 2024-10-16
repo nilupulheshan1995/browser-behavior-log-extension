@@ -1,4 +1,4 @@
-Based on your previous project, you have developed a Chrome extension that:
+developed Chrome extension capabilities:
 
 	•	Monitors the current URL of the browser’s focused tab.
 	•	Detects when a tab changes.
@@ -14,7 +14,7 @@ Chrome Extension Documentation
 
 1. Introduction
 
-This Chrome extension tracks browser activity in real-time. It detects changes in the active tab, logs mouse coordinates, scrollbar positions, and records the URL every second. This extension helps analyze user interactions by providing a detailed log of browser behavior.
+This Chrome extension tracks browser activity in real-time. It detects changes in the active tab, logs mouse coordinates, scrollbar positions, and records the URL every second. This extension helps analyze user interactions by providing a detailed log of browser behaviour.
 
 2. Features
 
