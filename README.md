@@ -8,7 +8,6 @@ developed Chrome extension capabilities:
 	•	Scrollbar positions (x and y).
 	•	URL of the focused tab.
 
-Here’s a basic outline you can use for the documentation of your Chrome extension:
 
 Chrome Extension Documentation
 
